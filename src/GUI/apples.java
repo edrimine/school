@@ -10,7 +10,7 @@ public class apples {
 
         tuna justin = new tuna();
         justin.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        justin.setSize(400,400);
+        justin.setSize(400,300);
         justin.setVisible(true);
 
     }
